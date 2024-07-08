@@ -1,0 +1,11 @@
+/* You can add global styles to this file, and also import other style files */
+.logo {
+    max-height: 50px;
+  }
+  .banner img {
+    width: 100%;
+  }
+  footer {
+    background-color: #f8f9fa;
+    padding: 20px 0;
+  }

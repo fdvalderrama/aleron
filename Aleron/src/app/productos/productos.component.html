@@ -1,0 +1,35 @@
+<div class="container mt-4">
+  <div class="row mb-3">
+    <div class="col-12">
+      <input type="text" class="form-control" placeholder="Buscar por modelo..." [(ngModel)]="searchText" (input)="filterAutos()">
+    </div>
+  </div>
+  <div class="row mb-3">
+    <div class="col-12">
+      <label class="form-label me-3">Filtro por categoría:</label>
+      <div class="btn-group" role="group" aria-label="Filtro de categorías">
+        <button class="btn btn-outline-secondary me-2 mb-2" (click)="filterByCategory('sedan')">Sedan</button>
+        <button class="btn btn-outline-secondary me-2 mb-2" (click)="filterByCategory('suv')">SUV</button>
+        <button class="btn btn-outline-secondary mb-2" (click)="filterByCategory('pickup')">PickUp</button>
+      </div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-12 col-md-4 mb-3" *ngFor="let auto of filteredAutos">
+      <div class="card h-100">
+        <div class="image-container">
+          <img [src]="auto.imagen" class="card-img-top" alt="{{auto.modelo}}">
+        </div>
+        <div class="card-body">
+          <h5 class="card-title">{{auto.marca}} {{auto.modelo}}</h5>
+          <p class="card-text">{{auto.descripcion}}</p>
+          <ul class="list-group list-group-flush">
+            <li class="list-group-item">Año: {{auto.anio}}</li>
+            <li class="list-group-item">Precio: {{auto.precio | currency}}</li>
+            <li class="list-group-item">Categoría: {{auto.categoria}}</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

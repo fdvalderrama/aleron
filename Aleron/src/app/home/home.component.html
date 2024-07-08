@@ -1,0 +1,23 @@
+<!-- src/app/home/home.component.html -->
+<div class="container mt-5">
+    <div class="banner mb-5">
+        <!-- Aquí puedes agregar tu banner -->
+        <img src="assets/banner.jpg" alt="Banner de Alerón" class="img-fluid">
+    </div>
+    <div class="row">
+        <div *ngFor="let auto of autos" class="col-md-4 mb-4">
+            <div class="card h-100">
+                <div class="image-container">
+                    <img [src]="auto.imagen" class="card-img-top" alt="{{auto.modelo}}">
+                </div>
+                <div class="card-body">
+                    <h5 class="card-title">{{auto.marca}} {{auto.modelo}}</h5>
+                    <p class="card-text">Año: {{auto.anio}}</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+  

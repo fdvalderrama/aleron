@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DaniV\\Documents\\Utl\\Mayo - Agosto 2024\\Desarrollo web integral\\Examen 2\\Comercializadora\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28A79B81-7901-487C-92CF-B40D27169635}|Comercializadora\\Comercializadora.csproj|c:\\users\\daniv\\documents\\utl\\mayo - agosto 2024\\desarrollo web integral\\examen 2\\comercializadora\\comercializadora\\controllers\\autoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28A79B81-7901-487C-92CF-B40D27169635}|Comercializadora\\Comercializadora.csproj|solutionrelative:comercializadora\\controllers\\autoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28A79B81-7901-487C-92CF-B40D27169635}|Comercializadora\\Comercializadora.csproj|c:\\users\\daniv\\documents\\utl\\mayo - agosto 2024\\desarrollo web integral\\examen 2\\comercializadora\\comercializadora\\migrations\\20240707235058_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28A79B81-7901-487C-92CF-B40D27169635}|Comercializadora\\Comercializadora.csproj|solutionrelative:comercializadora\\migrations\\20240707235058_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28A79B81-7901-487C-92CF-B40D27169635}|Comercializadora\\Comercializadora.csproj|c:\\users\\daniv\\documents\\utl\\mayo - agosto 2024\\desarrollo web integral\\examen 2\\comercializadora\\comercializadora\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28A79B81-7901-487C-92CF-B40D27169635}|Comercializadora\\Comercializadora.csproj|solutionrelative:comercializadora\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28A79B81-7901-487C-92CF-B40D27169635}|Comercializadora\\Comercializadora.csproj|c:\\users\\daniv\\documents\\utl\\mayo - agosto 2024\\desarrollo web integral\\examen 2\\comercializadora\\comercializadora\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28A79B81-7901-487C-92CF-B40D27169635}|Comercializadora\\Comercializadora.csproj|solutionrelative:comercializadora\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28A79B81-7901-487C-92CF-B40D27169635}|Comercializadora\\Comercializadora.csproj|c:\\users\\daniv\\documents\\utl\\mayo - agosto 2024\\desarrollo web integral\\examen 2\\comercializadora\\comercializadora\\models\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28A79B81-7901-487C-92CF-B40D27169635}|Comercializadora\\Comercializadora.csproj|solutionrelative:comercializadora\\models\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AutosController.cs",
+              "DocumentMoniker": "C:\\Users\\DaniV\\Documents\\Utl\\Mayo - Agosto 2024\\Desarrollo web integral\\Examen 2\\Comercializadora\\Comercializadora\\Controllers\\AutosController.cs",
+              "RelativeDocumentMoniker": "Comercializadora\\Controllers\\AutosController.cs",
+              "ToolTip": "C:\\Users\\DaniV\\Documents\\Utl\\Mayo - Agosto 2024\\Desarrollo web integral\\Examen 2\\Comercializadora\\Comercializadora\\Controllers\\AutosController.cs",
+              "RelativeToolTip": "Comercializadora\\Controllers\\AutosController.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAAAFsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T23:51:47.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240707235058_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\DaniV\\Documents\\Utl\\Mayo - Agosto 2024\\Desarrollo web integral\\Examen 2\\Comercializadora\\Comercializadora\\Migrations\\20240707235058_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Comercializadora\\Migrations\\20240707235058_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\DaniV\\Documents\\Utl\\Mayo - Agosto 2024\\Desarrollo web integral\\Examen 2\\Comercializadora\\Comercializadora\\Migrations\\20240707235058_InitialCreate.cs",
+              "RelativeToolTip": "Comercializadora\\Migrations\\20240707235058_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T23:50:59.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DaniV\\Documents\\Utl\\Mayo - Agosto 2024\\Desarrollo web integral\\Examen 2\\Comercializadora\\Comercializadora\\Program.cs",
+              "RelativeDocumentMoniker": "Comercializadora\\Program.cs",
+              "ToolTip": "C:\\Users\\DaniV\\Documents\\Utl\\Mayo - Agosto 2024\\Desarrollo web integral\\Examen 2\\Comercializadora\\Comercializadora\\Program.cs",
+              "RelativeToolTip": "Comercializadora\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T01:04:15.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Auto.cs",
+              "DocumentMoniker": "C:\\Users\\DaniV\\Documents\\Utl\\Mayo - Agosto 2024\\Desarrollo web integral\\Examen 2\\Comercializadora\\Comercializadora\\Models\\Auto.cs",
+              "RelativeDocumentMoniker": "Comercializadora\\Models\\Auto.cs",
+              "ToolTip": "C:\\Users\\DaniV\\Documents\\Utl\\Mayo - Agosto 2024\\Desarrollo web integral\\Examen 2\\Comercializadora\\Comercializadora\\Models\\Auto.cs",
+              "RelativeToolTip": "Comercializadora\\Models\\Auto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T04:19:19.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\Users\\DaniV\\Documents\\Utl\\Mayo - Agosto 2024\\Desarrollo web integral\\Examen 2\\Comercializadora\\Comercializadora\\Context.cs",
+              "RelativeDocumentMoniker": "Comercializadora\\Context.cs",
+              "ToolTip": "C:\\Users\\DaniV\\Documents\\Utl\\Mayo - Agosto 2024\\Desarrollo web integral\\Examen 2\\Comercializadora\\Comercializadora\\Context.cs",
+              "RelativeToolTip": "Comercializadora\\Context.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T03:21:05.342Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
